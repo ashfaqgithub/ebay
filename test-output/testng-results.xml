@@ -2,23 +2,19 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12631" started-at="2019-05-02T02:40:51Z" finished-at="2019-05-02T02:41:03Z">
+  <suite name="Default suite" duration-ms="6827" started-at="2019-05-05T15:33:43Z" finished-at="2019-05-05T15:33:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12631" started-at="2019-05-02T02:40:51Z" finished-at="2019-05-02T02:41:03Z">
+    <test name="Default test" duration-ms="6827" started-at="2019-05-05T15:33:43Z" finished-at="2019-05-05T15:33:50Z">
       <class name="test.TestSearch">
-        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:test.TestSearch@17d99928]" name="beforeEachTest" is-config="true" duration-ms="10198" started-at="2019-05-01T22:40:51Z" finished-at="2019-05-01T22:41:01Z">
+        <test-method status="PASS" signature="beforeEachTest()[pri:0, instance:test.TestSearch@3834d63f]" name="beforeEachTest" is-config="true" duration-ms="6646" started-at="2019-05-05T11:33:43Z" finished-at="2019-05-05T11:33:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEachTest -->
-        <test-method status="PASS" signature="TestSearchOption()[pri:0, instance:test.TestSearch@17d99928]" name="TestSearchOption" duration-ms="278" started-at="2019-05-01T22:41:01Z" finished-at="2019-05-01T22:41:01Z">
+        <test-method status="PASS" signature="TestSearchOption()[pri:0, instance:test.TestSearch@3834d63f]" name="TestSearchOption" duration-ms="172" started-at="2019-05-05T11:33:50Z" finished-at="2019-05-05T11:33:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSearchOption -->
-        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:test.TestSearch@17d99928]" name="afterEachTest" is-config="true" duration-ms="2146" started-at="2019-05-01T22:41:01Z" finished-at="2019-05-01T22:41:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterEachTest -->
       </class> <!-- test.TestSearch -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
